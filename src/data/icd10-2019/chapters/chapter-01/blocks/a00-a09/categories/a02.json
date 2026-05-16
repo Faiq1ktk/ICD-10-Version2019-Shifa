@@ -1,0 +1,44 @@
+{
+  "id": "category-a02",
+  "type": "category",
+  "code": "A02",
+  "title": "Other salmonella infections",
+  "parentId": "block-a00-a09",
+  "children": [
+    {
+      "id": "subcategory-a02-0",
+      "type": "subcategory",
+      "code": "A02.0",
+      "title": "Salmonella enteritis",
+      "parentId": "category-a02"
+    },
+    {
+      "id": "subcategory-a02-1",
+      "type": "subcategory",
+      "code": "A02.1",
+      "title": "Salmonella sepsis",
+      "parentId": "category-a02"
+    },
+    {
+      "id": "subcategory-a02-2",
+      "type": "subcategory",
+      "code": "A02.2",
+      "title": "Localized salmonella infections",
+      "parentId": "category-a02"
+    },
+    {
+      "id": "subcategory-a02-8",
+      "type": "subcategory",
+      "code": "A02.8",
+      "title": "Other specified salmonella infections",
+      "parentId": "category-a02"
+    },
+    {
+      "id": "subcategory-a02-9",
+      "type": "subcategory",
+      "code": "A02.9",
+      "title": "Salmonella infection, unspecified",
+      "parentId": "category-a02"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "category-a01",
+  "type": "category",
+  "code": "A01",
+  "title": "Typhoid and paratyphoid fevers",
+  "parentId": "block-a00-a09",
+  "children": [
+    {
+      "id": "subcategory-a01-0",
+      "type": "subcategory",
+      "code": "A01.0",
+      "title": "Typhoid fever",
+      "parentId": "category-a01"
+    },
+    {
+      "id": "subcategory-a01-1",
+      "type": "subcategory",
+      "code": "A01.1",
+      "title": "Paratyphoid fever A",
+      "parentId": "category-a01"
+    },
+    {
+      "id": "subcategory-a01-2",
+      "type": "subcategory",
+      "code": "A01.2",
+      "title": "Paratyphoid fever B",
+      "parentId": "category-a01"
+    },
+    {
+      "id": "subcategory-a01-3",
+      "type": "subcategory",
+      "code": "A01.3",
+      "title": "Paratyphoid fever C",
+      "parentId": "category-a01"
+    },
+    {
+      "id": "subcategory-a01-4",
+      "type": "subcategory",
+      "code": "A01.4",
+      "title": "Paratyphoid fever, unspecified",
+      "parentId": "category-a01"
+    }
+  ]
+}

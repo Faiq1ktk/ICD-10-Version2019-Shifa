@@ -1,0 +1,16 @@
+{
+  "id": "chapter-01",
+  "type": "chapter",
+  "code": "I",
+  "title": "Certain infectious and parasitic diseases",
+  "parentId": "icd10-2019",
+  "children": [
+    {
+      "id": "block-a00-a09",
+      "type": "block",
+      "code": "A00-A09",
+      "title": "Intestinal infectious diseases",
+      "path": "blocks/a00-a09/block.json"
+    }
+  ]
+}

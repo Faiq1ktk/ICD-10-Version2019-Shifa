@@ -1,0 +1,14 @@
+{
+  "id": "icd10-2019",
+  "type": "version",
+  "title": "ICD-10 Version:2019",
+  "children": [
+    {
+      "id": "chapter-01",
+      "type": "chapter",
+      "code": "I",
+      "title": "Certain infectious and parasitic diseases",
+      "path": "chapters/chapter-01/chapter.json"
+    }
+  ]
+}

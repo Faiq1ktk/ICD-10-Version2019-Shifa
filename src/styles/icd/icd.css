@@ -1,0 +1,72 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.icd-page {
+  min-height: 100vh;
+}
+
+.icd-header {
+  background: #006400;
+  color: white;
+  padding: 18px 24px 12px;
+}
+
+.icd-header h1 {
+  margin: 0 0 14px;
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.icd-search {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.icd-search input {
+  width: 450px;
+  height: 28px;
+  border: none;
+  outline: none;
+}
+
+.icd-body {
+  display: flex;
+  height: calc(100vh - 107px);
+}
+
+.icd-sidebar {
+  width: 560px;
+  padding: 12px;
+  border-right: 1px solid #999;
+  overflow-y: auto;
+  background: #fafafa;
+}
+
+.icd-detail {
+  flex: 1;
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.icd-detail h2 {
+  color: orangered;
+  font-size: 26px;
+  font-weight: 400;
+  margin: 4px 0;
+}
+
+.ant-tree {
+  background: transparent;
+  font-size: 16px;
+}
+
+.ant-tree-title {
+  line-height: 1.5;
+}

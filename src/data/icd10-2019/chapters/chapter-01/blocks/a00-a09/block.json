@@ -1,0 +1,30 @@
+{
+  "id": "block-a00-a09",
+  "type": "block",
+  "code": "A00-A09",
+  "title": "Intestinal infectious diseases",
+  "parentId": "chapter-01",
+  "children": [
+    {
+      "id": "category-a00",
+      "type": "category",
+      "code": "A00",
+      "title": "Cholera",
+      "path": "categories/a00.json"
+    },
+    {
+      "id": "category-a01",
+      "type": "category",
+      "code": "A01",
+      "title": "Typhoid and paratyphoid fevers",
+      "path": "categories/a01.json"
+    },
+    {
+      "id": "category-a02",
+      "type": "category",
+      "code": "A02",
+      "title": "Other salmonella infections",
+      "path": "categories/a02.json"
+    }
+  ]
+}

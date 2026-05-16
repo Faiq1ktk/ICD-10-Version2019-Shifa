@@ -1,0 +1,33 @@
+{
+  "id": "category-a00",
+  "type": "category",
+  "code": "A00",
+  "title": "Cholera",
+  "parentId": "block-a00-a09",
+  "children": [
+    {
+      "id": "subcategory-a00-0",
+      "type": "subcategory",
+      "code": "A00.0",
+      "title": "Cholera due to Vibrio cholerae 01, biovar cholerae",
+      "parentId": "category-a00",
+      "children": []
+    },
+    {
+      "id": "subcategory-a00-1",
+      "type": "subcategory",
+      "code": "A00.1",
+      "title": "Cholera due to Vibrio cholerae 01, biovar eltor",
+      "parentId": "category-a00",
+      "children": []
+    },
+    {
+      "id": "subcategory-a00-9",
+      "type": "subcategory",
+      "code": "A00.9",
+      "title": "Cholera, unspecified",
+      "parentId": "category-a00",
+      "children": []
+    }
+  ]
+}
